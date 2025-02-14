@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, sou o Yago 👋
+
+[![card](https://github-readme-stats.vercel.app/api?username=yagolima1511&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=yagolima1511&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yagolima1511/yagolima1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
